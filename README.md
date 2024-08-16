@@ -1,2 +1,2 @@
-# AndreyAlexandrov
+# Alexandrov Java
 Aston-QA-Task
